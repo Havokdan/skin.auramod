@@ -4324,179 +4324,179 @@ msgstr ""
 #: /shortcuts/overrides.xml
 msgctxt "#31886"
 msgid "Setup"
-msgstr ""
+msgstr "Configuração"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31887"
 msgid "Movie Categories Hub"
-msgstr ""
+msgstr "Hub de Categorias de Filmes"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31888"
 msgid "Movie Genres Hub"
-msgstr ""
+msgstr "Hub de Gêneros de Filmes"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31889"
 msgid "TV Categories Hub"
-msgstr ""
+msgstr "Hub de Categorias de Seriados"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31890"
 msgid "TV Genres Hub"
-msgstr ""
+msgstr "Hub de Gêneros de Seriados"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31891"
 msgid "TV Networks Hub"
-msgstr ""
+msgstr "Hub de Emissoras de Seriados"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31892"
 msgid "Movie Lists Hub 1"
-msgstr ""
+msgstr "Hub de Lista de Filmes 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31893"
 msgid "TV Lists Hub 1"
-msgstr ""
+msgstr "Hub de Lista de Seriados 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31894"
 msgid "My Lists Hub 1"
-msgstr ""
+msgstr "Hub de Minhas Listas 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31895"
 msgid "My Lists Hub 2"
-msgstr ""
+msgstr "Hub de Minhas Listas 2"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31896"
 msgid "My Lists Hub 3"
-msgstr ""
+msgstr "Hub de Minhas Listas 3"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31897"
 msgid "My Addons List 1"
-msgstr ""
+msgstr "Minha Lista de Addons 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31898"
 msgid "My Addons List 2"
-msgstr ""
+msgstr "Minha Lista de Addons 2"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31899"
 msgid "My LiveTV List 1"
-msgstr ""
+msgstr "Minha Lista de LiveTV 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31900"
 msgid "My LiveTV List 2"
-msgstr ""
+msgstr "Minha Lista de LiveTV 2"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31901"
 msgid "My List Dialogs"
-msgstr ""
+msgstr "Minha Lista Diálogos"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31902"
 msgid "Movie Lists 1"
-msgstr ""
+msgstr "Lista de Filmes 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31903"
 msgid "Movie Categories List"
-msgstr ""
+msgstr "Lista de Categorias de Filmes"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31904"
 msgid "TV Lists 1"
-msgstr ""
+msgstr "Listas de Seriados 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31905"
 msgid "TV Categories List"
-msgstr ""
+msgstr "Lista de Categorias de Seriados"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31906"
 msgid "My Lists 1"
-msgstr ""
+msgstr "Minhas Listas 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31907"
 msgid "My Lists 2"
-msgstr ""
+msgstr "Minhas Listas 2"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31908"
 msgid "My Lists 3"
-msgstr ""
+msgstr "Minhas Listas 3"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31909"
 msgid "Video-Addons"
-msgstr ""
+msgstr "Addons de Vídeo"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31910"
 msgid "My Movie List 1"
-msgstr ""
+msgstr "Minha Lista de Filmes 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31911"
 msgid "My TV List 1"
-msgstr ""
+msgstr "Minha Listas de Seriados 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31912"
 msgid "My List 1"
-msgstr ""
+msgstr "Minha Lista 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31913"
 msgid "My List 2"
-msgstr ""
+msgstr "Minha Lista 2"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31914"
 msgid "My List 3"
-msgstr ""
+msgstr "Minha Lista 3"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31915"
 msgid "My Addons List 1"
-msgstr ""
+msgstr "Minha Lista de Addons 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31916"
 msgid "My Addons List 2"
-msgstr ""
+msgstr "Minha Lista de Addons 2"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31917"
 msgid "My LiveTV List 1"
-msgstr ""
+msgstr "Minha Lista de LiveTV 1"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31918"
 msgid "My LiveTV List 2"
-msgstr ""
+msgstr "Minha Lista de LiveTV 2"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31919"
 msgid "Because you watched"
-msgstr ""
+msgstr "Porque você assistiu"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31920"
 msgid "Spotlight Movies"
-msgstr ""
+msgstr "Filmes em Destaque"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31921"
 msgid "Spotlight TV"
-msgstr ""
+msgstr "Seriados em Destaque"
