@@ -33,6 +33,7 @@
         <property name="widgetTarget">videos</property>
         <property name="widgetName" tag="label" />
         <property name="widgetPath" tag="property" attribute="name|list" />
+        <property name="widgetPath"></property>
         <property name="widgetSortby" tag="property" attribute="name|widgetSortby" />
         <property name="widgetSortorder" tag="property" attribute="name|widgetSortorder" />
         <property name="widgetLimit" tag="property" attribute="name|widgetLimit" />
@@ -275,6 +276,7 @@
             <property name="widgetTarget">videos</property>
             <property name="widgetName" tag="label" />
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetSortby" tag="property" attribute="name|widgetSortby" />
             <property name="widgetSortorder" tag="property" attribute="name|widgetSortorder" />
             <property name="widgetLimit" tag="property" attribute="name|widgetLimit" />
@@ -423,6 +425,7 @@
             <property name="widgetTarget">videos</property>
             <property name="widgetName" tag="label" />
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetSortby" tag="property" attribute="name|widgetSortby" />
             <property name="widgetSortorder" tag="property" attribute="name|widgetSortorder" />
             <property name="widgetLimit" tag="property" attribute="name|widgetLimit" />
@@ -572,6 +575,7 @@
             <property name="widgetTarget">videos</property>
             <property name="widgetName" tag="label" />
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetSortby" tag="property" attribute="name|widgetSortby" />
             <property name="widgetSortorder" tag="property" attribute="name|widgetSortorder" />
             <property name="widgetLimit" tag="property" attribute="name|widgetLimit" />
@@ -704,6 +708,7 @@
             <property name="widgetAspect" tag="property" attribute="name|widgetAspect" />
             <property name="widgetAspect">Poster</property>
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -873,6 +878,7 @@
             <property name="widgetLandscapewidebg" tag="property" attribute="name|widgetLandscapewidebg" />
             <property name="widgetLandscapewidebg">false</property>
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -995,6 +1001,7 @@
             <property name="widgetLandscapewidebg" tag="property" attribute="name|widgetLandscapewidebg" />
             <property name="widgetLandscapewidebg">false</property>
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -1167,6 +1174,7 @@
             <property name="widgetLandscapewidebg" tag="property" attribute="name|widgetLandscapewidebg" />
             <property name="widgetLandscapewidebg">false</property>
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -1296,6 +1304,7 @@
             <property name="widgetLandscapewidebg" tag="property" attribute="name|widgetLandscapewidebg" />
             <property name="widgetLandscapewidebg">false</property>
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -1461,6 +1470,7 @@
             <property name="widgetLandscapewidebg" tag="property" attribute="name|widgetLandscapewidebg" />
             <property name="widgetLandscapewidebg">false</property>
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -1626,6 +1636,7 @@
             <property name="widgetLandscapewidebg" tag="property" attribute="name|widgetLandscapewidebg" />
             <property name="widgetLandscapewidebg">false</property>
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -1792,6 +1803,7 @@
             <property name="widgetLandscapewidebg" tag="property" attribute="name|widgetLandscapewidebg" />
             <property name="widgetLandscapewidebg">false</property>
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -1919,6 +1931,7 @@
             <property name="widgetLandscapewidebg" tag="property" attribute="name|widgetLandscapewidebg" />
             <property name="widgetLandscapewidebg">false</property>
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -2053,6 +2066,7 @@
             <property name="widgetControl" tag="property" attribute="name|widgetControl" />
             <property name="widgetControl">fixedlist</property>
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
 
             <property name="widgetHubAspect" tag="property" attribute="name|widgetHubAspect" />
             <property name="widgetHubAspect">Landscape</property>
@@ -2173,6 +2187,7 @@
             <property name="widgetControl" tag="property" attribute="name|widgetControl" />
             <property name="widgetControl">fixedlist</property>
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetHubAspect" tag="property" attribute="name|widgetHubAspect" />
             <property name="widgetHubAspect">Landscape</property>
 
@@ -2287,6 +2302,7 @@
             <property name="icon">$VAR[Image_Poster]</property>
 
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -2407,6 +2423,7 @@ poster-wall.png</property>
             <property name="icon">$VAR[Image_Poster]</property>
 
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -2515,6 +2532,7 @@ poster-wall.png</property>
             <property name="icon">$VAR[Image_Poster]</property>
 
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
@@ -2623,6 +2641,7 @@ poster-wall.png</property>
             <property name="icon">$VAR[Image_Poster]</property>
 
             <property name="widgetPath" tag="property" attribute="name|list" />
+            <property name="widgetPath"></property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="Poster">5</property>
             <property name="widgetMovement" tag="property" attribute="name|widgetHubAspect" value="LandscapePoster">2</property>
             <property name="widgetMovement">2</property>
